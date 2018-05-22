@@ -1,7 +1,6 @@
 backend:
-  name: test-repo
-#  name: github
-#  branch: master
+  name: github
+  repo: ScottAustin/netlify-cms-tutorial
 
 media_folder: static/img
 public_folder: /img

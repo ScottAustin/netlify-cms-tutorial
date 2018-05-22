@@ -10,7 +10,7 @@ const Navbar = () => (
       <div className="navbar-brand">
         <Link to="/" className="navbar-item">
           <figure className="image">
-            <img src={logo} alt="Kaldi" style={{ width: '88px' }} />
+            <img src={logo} alt="Scott" style={{ width: '88px' }} />
           </figure>
         </Link>
       </div>
@@ -25,7 +25,7 @@ const Navbar = () => (
       <div className="navbar-end">
         <a
           className="navbar-item"
-          href="https://github.com/AustinGreen/gatsby-netlify-cms-boilerplate"
+          href="https://github.com/ScottAustin/netlify-cms-tutorial"
           target="_blank"
           rel="noopener noreferrer"
         >
